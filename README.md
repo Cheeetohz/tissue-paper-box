@@ -14,7 +14,7 @@ The analysis is built and tested in **Google Colab** using Python and popular fi
 
 ---
 
-## 📈 Features
+## Features
 
 - Historical data fetching using `yfinance`
 - Mean-variance optimization
