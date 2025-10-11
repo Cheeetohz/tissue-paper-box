@@ -24,11 +24,9 @@ The analysis is built and tested in **Google Colab** using Python and popular fi
 
 ---
 
-## Run on Google Colab
+## Run Online
 
-Click below to launch the notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cheeetohz/tissue-paper-box/blob/main/Tissue_paper_box.ipynb)
-
-
-
+| Platform | Link |
+|-----------|------|
+| **Streamlit App** | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tissue-paper-box-app.streamlit.app/) |
+| **Google Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cheeetohz/tissue-paper-box/blob/main/Tissue_paper_box.ipynb) |
